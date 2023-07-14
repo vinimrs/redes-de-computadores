@@ -1,0 +1,6 @@
+[submodule "redes-p1"]
+	path = redes-p1
+	url = https://github.com/vinimrs/redes-p1.git
+[submodule "redes-p2"]
+	path = redes-p2
+	url = https://github.com/YaboiAst/redes-p2.git
