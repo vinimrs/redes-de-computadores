@@ -4,3 +4,9 @@
 [submodule "redes-p2"]
 	path = redes-p2
 	url = https://github.com/YaboiAst/redes-p2.git
+[submodule "redes-p4"]
+	path = redes-p4
+	url = https://github.com/vinimrs/redes-p4
+[submodule "redes-p3"]
+	path = redes-p3
+	url = https://github.com/mthsB3ssa/redes-p3
